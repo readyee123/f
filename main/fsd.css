@@ -1,0 +1,68 @@
+.mukta-mahee-extralight {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .mukta-mahee-light {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .mukta-mahee-regular {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .mukta-mahee-medium {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .mukta-mahee-semibold {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .mukta-mahee-bold {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .mukta-mahee-extrabold {
+    font-family: "Mukta Mahee", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+
+body {
+    background-color: rgb(128, 128, 128);
+    font-family:  "Mukta Mahee", sans-serif;
+    background-image: linear-gradient(white,black);
+    height: 100vh;
+}
+
+.websiteone {
+    width: 100px;
+    height: 50px;
+    border: 2px black solid;
+    border-radius: 10px;
+    
+}
+.move1 {
+    padding-top: 20%;
+    padding-left: 36%;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
